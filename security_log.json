@@ -1,0 +1,42 @@
+[
+    {
+        "username": "rosti",
+        "ip": "10.98.241.22",
+        "action": "REGISTER",
+        "status": "SUCCESS",
+        "date": "2026-10-30",
+        "time": "15:46:37"
+    },
+    {
+        "username": "rosti",
+        "ip": "10.98.241.22",
+        "action": "LOGIN",
+        "status": "SUCCESS",
+        "date": "2026-10-30",
+        "time": "15:46:45"
+    },
+    {
+        "username": "rosti",
+        "ip": "10.98.241.22",
+        "action": "LOGOUT",
+        "status": "SUCCESS",
+        "date": "2026-10-30",
+        "time": "15:55:04"
+    },
+    {
+        "username": "rosti",
+        "ip": "10.98.241.22",
+        "action": "LOGIN",
+        "status": "SUCCESS",
+        "date": "2026-10-30",
+        "time": "15:56:29"
+    },
+    {
+        "username": "rosti",
+        "ip": "10.98.241.22",
+        "action": "SEND_FILE",
+        "status": "SUCCESS",
+        "date": "2026-10-30",
+        "time": "15:58:14"
+    }
+]
